@@ -80,7 +80,7 @@ df_results = sentence_extraction_scoring(df, dict_topics, column_name='review')
 We suggest you to create a separate virtual environment running Python 3 for this app, and install all of the required dependencies there. Run in Terminal/Command Prompt:
 
 ```
-git clone https://github.com/SapiensZ/PassengerTracker.git
+git clone https://github.com/AntOhl/PassengerTracker.git
 cd PassengerTracker/04_Dashboard/
 python3 -m virtualenv venv
 ```
