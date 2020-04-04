@@ -1,6 +1,7 @@
 
 # 🚀 PassengerTracker
 _Airline customer satisfaction tracker through NLP sentiment analysis from the web_
+_This work is related to __one week Case Study given by Eleven Strategy__ consulting and was done by T. Lafitte, V. Roy, I. Zizi and A. Ohleyer.__
 
 ## BUSINESS INSIGHTS
   Story telling: Given circumstances (weather, delays, snowball effects...) and stakes held by flight travels (pressure on time, holidays, stress, family visits, children, elderly, disabled...), airline companies face fierce retaliations from customers online. Some events often go viral and threaten a whole company's reputation in a blink (for example, passenger expelled from a Delta airplane). That makes a case of strategic importance for airline companies to take the pulse of customer satisfaction in real time in order to take adequate operational actions proactively, rather than reactively.
